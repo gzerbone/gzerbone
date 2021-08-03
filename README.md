@@ -15,7 +15,6 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Rafa-yoda"  height="95" width="80" src="https://media0.giphy.com/media/MBIpChCqnmyz5yeh9l/giphy.gif?cid=ecf05e47u0m8h5pw8gisvluov64jn9a9dqoglt7qqb48yxqz&rid=giphy.gif&ct=s">
 
 </div>
   
