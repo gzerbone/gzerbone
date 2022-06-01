@@ -1,6 +1,5 @@
 ## Hello World!!
-- 📫 Contato: gzebonemb@gmail.com
-- 😄 Pronouns: ela/dela
+- 📫 Contat: gzebonemb@gmail.com
 
 ##
 
