@@ -22,8 +22,8 @@
   ##
   
   <div>
-  <a href="https://instagram.com/gzerbone_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gzerbonemb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-zerbone-17651962/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/gzerbone_" target="_blank"><img height="30em" src="https://cdn-icons-png.flaticon.com/512/1400/1400487.png" target="_blank"></a>
+  <a href = "mailto:gzerbonemb@gmail.com"><img height="30em" src="https://cdn-icons-png.flaticon.com/512/2531/2531419.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriela-zerbone-17651962/" target="_blank"><img height="30em" src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png" target="_blank"></a> 
  
   </div>
