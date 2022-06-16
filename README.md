@@ -32,7 +32,7 @@
    </a>
   -
    <a href="https://www.linkedin.com/in/gabriela-zerbone-17651962/" target="_blank">
-    <img height="22em" align="center" alt="Linkedin" src="https://iconsplace.com/wp-content/uploads/_icons/6d3ea3/256/png/linkedin-icon-256.png" target="_blank">
+    <img height="22em" align="center" alt="Linkedin" src="https://iconsplace.com/wp-content/uploads/_icons/f0f0f0/256/png/linkedin-icon-256.png" target="_blank">
    </a> 
  
   </div>
