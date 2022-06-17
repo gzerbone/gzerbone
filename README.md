@@ -24,15 +24,15 @@
   <div style="display: inline_block">
    
    <a href="https://instagram.com/gzerbone_" target="_blank">
-    <img height="22em" align="center" alt="Instagram" src="https://iconsplace.com/wp-content/uploads/_icons/f0f0f0/256/png/instagram-icon-256.png" target="_blank">
+    <img height="22em" align="center" alt="Instagram" src="https://iconsplace.com/wp-content/uploads/_icons/c7b0e5/256/png/instagram-icon-256.png" target="_blank">
    </a>
     -
    <a href = "mailto:gzerbonemb@gmail.com" target="_blank">
-    <img height="22em" align="center" alt="Gmail" src="https://iconsplace.com/wp-content/uploads/_icons/f0f0f0/256/png/read-message-icon-256.png" target="_blank">
+    <img height="22em" align="center" alt="Gmail" src="https://iconsplace.com/wp-content/uploads/_icons/c7b0e5/256/png/gmail-login-icon-256.png" target="_blank">
    </a>
   -
    <a href="https://www.linkedin.com/in/gabriela-zerbone-17651962/" target="_blank">
-    <img height="22em" align="center" alt="Linkedin" src="https://iconsplace.com/wp-content/uploads/_icons/f0f0f0/256/png/linkedin-icon-256.png" target="_blank">
+    <img height="22em" align="center" alt="Linkedin" src="https://iconsplace.com/wp-content/uploads/_icons/c7b0e5/256/png/linkedin-icon-256.png" target="_blank">
    </a> 
  
   </div>
