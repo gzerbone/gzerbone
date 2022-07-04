@@ -1,5 +1,7 @@
 ## I'm Gabriela and welcome to my GitHub ✨!!
 - 📫 Contat: gzebonemb@gmail.com
+- 💡 Linkedin: <a href="https://www.linkedin.com/in/gabriela-zerbone-17651962/" target="_blank"> Gabriela Zerbone </a>
+- 📲 Instagram: <a href="https://instagram.com/gzerbone_" target="_blank"> @gzerbone_ </a>
 
 ##
 
@@ -20,7 +22,7 @@
 </div>
   
   ##
-  
+<!--  REDES SOCIAIS
   <div style="display: inline_block">
    
    <a href="https://instagram.com/gzerbone_" target="_blank">
@@ -36,3 +38,4 @@
    </a> 
  
   </div>
+-->
