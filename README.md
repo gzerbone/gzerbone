@@ -25,11 +25,11 @@
  
 ## Main Projects
   <a href="https://github.com/gzerbone/PythonTamagotchi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=PythonTamagotchi&theme=transparent&bg_color=00000000&title_color=ebe6ed&text_color=dab9e5&icon_color=dab9e5&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=PythonTamagotchi&theme=transparent&bg_color=00000000&title_color=c8a0d6&text_color=dab9e5&icon_color=dab9e5&hide_border=true">
   </a>
 
   <a href="https://github.com/gzerbone/InstagramCopy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=InstagramCopy&theme=transparent&bg_color=00000000&title_color=ebe6ed&text_color=dab9e5&icon_color=dab9e5&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=InstagramCopy&theme=transparent&bg_color=00000000&title_color=c8a0d6&text_color=dab9e5&icon_color=dab9e5&hide_border=true">
   </a>  
   
   ##
