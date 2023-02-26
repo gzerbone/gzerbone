@@ -20,10 +20,10 @@
   <img align="center" alt="gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
-  
  </br>
  
 ## Main Projects
+<div style="display: flex; flex-wrap: wrap;"> 
   <a href="https://github.com/gzerbone/PythonTamagotchi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=PythonTamagotchi&theme=transparent&bg_color=00000000&title_color=b58dc4&text_color=dab9e5&icon_color=dab9e5&hide_border=true">
   </a>
@@ -31,7 +31,8 @@
   <a href="https://github.com/gzerbone/InstagramCopy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=InstagramCopy&theme=transparent&bg_color=00000000&title_color=b58dc4&text_color=dab9e5&icon_color=dab9e5&hide_border=true">
   </a>  
-  
+ </div>
+
   ##
 <!--  REDES SOCIAIS
   <div style="display: inline_block">
