@@ -7,9 +7,9 @@
 
 <div>
   <a href="https://github.com/gzerbone">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gzerbone&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&bg_color=0,14002f,3a0777,14002f&title_color=dab9e5&text_color=dab9e5&icon_color=c787db"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gzerbone&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&bg_color=0,14002f,3a0777,14002f&title_color=ebe6ed&text_color=dab9e5&icon_color=c787db&hide_border=true"/>
     
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzerbone&layout=compact&langs_count=7&theme=gotham&bg_color=5,14002f,3a0777,14002f&title_color=dab9e5&text_color=dab9e5&icon_color=dab9e5"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzerbone&layout=compact&langs_count=7&theme=gotham&bg_color=5,14002f,3a0777,14002f&title_color=ebe6ed&text_color=dab9e5&icon_color=dab9e5&hide_border=true"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -20,6 +20,21 @@
   <img align="center" alt="gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
+  
+ </br>
+ 
+## Main Projects
+  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;>
+  <a href="https://github.com/gzerbone/Tamagotchi_data_structures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=Tamagotchi_data_structures&theme=transparent&bg_color=00000000&title_color=ebe6ed&text_color=dab9e5&icon_color=dab9e5&hide_border=true">
+  </a>
+
+  <a href="https://github.com/gzerbone/InstagramCopy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=InstagramCopy&theme=transparent&bg_color=00000000&title_color=ebe6ed&text_color=dab9e5&icon_color=dab9e5&hide_border=true">
+  </a>
+</div>
+  
   
   ##
 <!--  REDES SOCIAIS
