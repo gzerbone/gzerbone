@@ -34,6 +34,10 @@
   <a href="https://github.com/gzerbone/InstagramCopy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=InstagramCopy&theme=transparent&bg_color=5,dd97ff,9b2af0,dd97ff&title_color=3a0777&text_color=3a0777&icon_color=3a0777&hide_border=true">
   </a>  
+  
+   <a href="https://github.com/gzerbone/Image_To_Ascii_art">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=Image_To_Ascii_art&theme=transparent&bg_color=5,dd97ff,9b2af0,dd97ff&title_color=3a0777&text_color=3a0777&icon_color=3a0777&hide_border=true">
+  </a>  
  </div>
 
   ##
