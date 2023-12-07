@@ -52,6 +52,10 @@
    <a href="https://github.com/gzerbone/Image_To_Ascii_art">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=Image_To_Ascii_art&theme=midnight-purple&show_icons=true&hide_border=true">
   </a>  
+  
+   <a href="https://github.com/gzerbone/gerenciamentoMusicas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=gerenciamentoMusicas&theme=midnight-purple&show_icons=true&hide_border=true">
+  </a>  
  </div>
 
   ##
