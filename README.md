@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=863DDA&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi%2C+Welcome+to+my+Github" alt="Typing SVG" /></a>
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/azevedo-arthur/)](https://www.linkedin.com/in/gabrielazerbone/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielazerbone/)](https://www.linkedin.com/in/gabrielazerbone/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gzerbonemb@gmail.com)](mailto:gzerbonemb@gmail.com)
 
 ##
