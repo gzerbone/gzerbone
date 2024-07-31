@@ -37,7 +37,7 @@
  ##
  
 <div align="center">
-  <h1> Main Projects</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=630c8e&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Main+Projects" alt="Typing SVG" /></a>
 </div>
 
 <div style="display: flex; flex-wrap: wrap;" align="center"> 
