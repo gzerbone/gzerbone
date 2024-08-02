@@ -30,7 +30,7 @@
  </div>
 
 ##
-  <img align="center" src="https://streak-stats.demolab.com?user=gzerbone&theme=shadow-purple&locale=pt_BR" alt="gzerbone" />
+  <img align="center" src="https://streak-stats.demolab.com?user=gzerbone&theme=shadow-purple&locale=pt_BR&fire=FB8C00&ring=FB8C00&currStreakNum=FB8C00&currStreakLabel=FB8C00" alt="gzerbone" />
 </div>
  </br>
  
