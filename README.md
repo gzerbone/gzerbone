@@ -30,14 +30,14 @@
  </div>
 
 ##
-  <img align="center" src="https://streak-stats.demolab.com?user=gzerbone&theme=shadow-purple&locale=pt_BR&fire=FB8C00&ring=FB8C00&currStreakNum=FB8C00&currStreakLabel=FB8C00" alt="gzerbone" />
+  <img align="center" src="https://streak-stats.demolab.com?user=gzerbone&theme=shadow-purple&locale=pt_BR&fire=aa7dce&ring=aa7dce&currStreakNum=aa7dce&currStreakLabel=aa7dce" alt="gzerbone" />
 </div>
  </br>
  
  ##
  
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=630c8e&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Main+Projects" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=aa7dce&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Main+Projects" alt="Typing SVG" /></a>
 </div>
 
 <div style="display: flex; flex-wrap: wrap;" align="center"> 
