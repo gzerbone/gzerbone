@@ -44,17 +44,17 @@
   <a href="https://github.com/gzerbone/PythonTamagotchi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=PythonTamagotchi&theme=midnight-purple&show_icons=true&hide_border=true">
   </a>
-
-  <a href="https://github.com/gzerbone/InstagramCopy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=InstagramCopy&theme=midnight-purple&show_icons=true&hide_border=true">
-  </a>  
   
    <a href="https://github.com/gzerbone/Image_To_Ascii_art">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=Image_To_Ascii_art&theme=midnight-purple&show_icons=true&hide_border=true">
   </a>  
+
+  <a href="https://github.com/atlantico-academy/equipe6-2024.2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atlantico-academy&repo=equipe6-2024.2&theme=midnight-purple&show_icons=true&hide_border=true">
+  </a>  
   
-   <a href="https://github.com/gzerbone/gerenciamentoMusicas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=gerenciamentoMusicas&theme=midnight-purple&show_icons=true&hide_border=true">
+   <a href="https://github.com/gzerbone/avanti-bootcamp-cdd/blob/master/notebooks/01-exploratory_data_analysis.ipynb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=avanti-bootcamp-cdd&theme=midnight-purple&show_icons=true&hide_border=true">
   </a>  
  </div>
 
