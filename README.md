@@ -41,6 +41,14 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap;" align="center"> 
+  <a href="https://github.com/gzerbone/predicao-banking-churn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=predicao-banking-churn&theme=midnight-purple&show_icons=true&hide_border=true">
+  </a>  
+  
+   <a href="https://github.com/gzerbone/predicao-gorjeta/blob/master/notebooks/01-exploratory_data_analysis.ipynb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=predicao-gorjeta&theme=midnight-purple&show_icons=true&hide_border=true">
+  </a>  
+  
   <a href="https://github.com/gzerbone/PythonTamagotchi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=PythonTamagotchi&theme=midnight-purple&show_icons=true&hide_border=true">
   </a>
@@ -49,13 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=Image_To_Ascii_art&theme=midnight-purple&show_icons=true&hide_border=true">
   </a>  
 
-  <a href="https://github.com/atlantico-academy/equipe6-2024.2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atlantico-academy&repo=equipe6-2024.2&theme=midnight-purple&show_icons=true&hide_border=true">
-  </a>  
-  
-   <a href="https://github.com/gzerbone/avanti-bootcamp-cdd/blob/master/notebooks/01-exploratory_data_analysis.ipynb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=avanti-bootcamp-cdd&theme=midnight-purple&show_icons=true&hide_border=true">
-  </a>  
+
  </div>
 
   ##
