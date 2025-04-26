@@ -49,6 +49,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=predicao-gorjeta&theme=midnight-purple&show_icons=true&hide_border=true">
   </a>  
   
+   <a href="https://github.com/gzerbone/CNN_Segmentacao_de_Retina">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=CNN_Segmentacao_de_Retina&theme=midnight-purple&show_icons=true&hide_border=true">
+  </a>  
+  
   <a href="https://github.com/gzerbone/PythonTamagotchi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=PythonTamagotchi&theme=midnight-purple&show_icons=true&hide_border=true">
   </a>
