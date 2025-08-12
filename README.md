@@ -14,7 +14,7 @@
   <img align="right" src="https://github.com/dhilipsiva/octodex/blob/master/png/poptocat_v2.png?raw=true" 
        alt="Octocat" 
        width="480" 
-       style="position: absolute; top: 50%; padding-left: 0 transform: translateY(-50%);">
+       style="position: absolute; top: 50%; padding-left: 0; transform: translateY(-50%);">
 </div>
 
 
