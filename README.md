@@ -21,9 +21,7 @@
 ### **Languages** 
 ![Python](https://img.shields.io/badge/python-a8105f?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-a8105f?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-a8105f?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-a8105f?style=for-the-badge&logo=javascript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-a8105f?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### **Frontend & Backend**  
 ![Vue.js](https://img.shields.io/badge/vuejs-a8105f.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -39,7 +37,6 @@
 
 ### **Databases**  
 
-![Poetry](https://img.shields.io/badge/Poetry-a8105f?style=for-the-badge&logo=poetry&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-a8105f?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-a8105f?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a8105f?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -77,6 +74,7 @@
 ![Windows](https://img.shields.io/badge/Windows-a8105f?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-a8105f?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-a8105f?style=for-the-badge&logo=git&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-a8105f?style=for-the-badge&logo=poetry&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-a8105f?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-a8105f?style=for-the-badge&logo=notion&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-a8105f.svg?style=for-the-badge&logo=jupyter&logoColor=white)
