@@ -10,11 +10,12 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-a8105f?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielazerbone/)](https://www.linkedin.com/in/gabrielazerbone/)
 [![Gmail](https://img.shields.io/badge/Gmail-a8105f?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gzerbonemb@gmail.com)](mailto:gzerbonemb@gmail.com)
 </div>
+
   <!-- Octocat no canto direito -->
   <img align="right" src="https://github.com/dhilipsiva/octodex/blob/master/png/poptocat_v2.png?raw=true" 
        alt="Octocat" 
        width="480" 
-       style="position: absolute; top: 50%; padding-left: 0; transform: translateY(-50%);">
+       style="padding-left: 0; position: absolute; top: 50%; transform: translateY(-50%);">
 </div>
 
 
