@@ -1,22 +1,30 @@
 ## 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF0C8C&center=true&width=435&lines=Hi%2C+Welcome+to+my+Github!!;I'm+Gabriela+Zerbone." alt="Typing SVG" /></a>
 
+<div style="position: relative; text-align: center;">
+<div align="center">
+  <!-- Texto central -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FF0C8C&center=true&width=435&lines=Hi%2C+Welcome+to+my+Github!!;I'm+Gabriela+Zerbone." alt="Typing SVG" />
+  </a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-a8105f?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielazerbone/)](https://www.linkedin.com/in/gabrielazerbone/)
 [![Gmail](https://img.shields.io/badge/Gmail-a8105f?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gzerbonemb@gmail.com)](mailto:gzerbonemb@gmail.com)
+</div>
+  <!-- Octocat no canto direito -->
+  <img align="right" src="https://github.com/dhilipsiva/octodex/blob/master/png/poptocat_v2.png?raw=true" 
+       alt="Octocat" 
+       width="400" 
+       style="position: absolute; top: 48%; right: 0; transform: translateY(-50%);">
+</div>
 
 
 ##
 
-<div align="center">
   <a href="https://github.com/gzerbone">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gzerbone&show_icons=true&theme=omni&show_icons=true&hide_border=true"/>
     
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzerbone&layout=compact&langs_count=7&theme=omni&show_icons=true&hide_border=true"/>
-</div>
 
-##
 
 ### **Languages** 
 ![Python](https://img.shields.io/badge/python-a8105f?style=for-the-badge&logo=python&logoColor=white)
