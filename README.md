@@ -9,8 +9,11 @@
   
   [![LinkedIn](https://img.shields.io/badge/linkedin-a8105f?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielazerbone/)](https://www.linkedin.com/in/gabrielazerbone/)
   [![Gmail](https://img.shields.io/badge/Gmail-a8105f?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gzerbonemb@gmail.com)](mailto:gzerbonemb@gmail.com)
+  </br>
+  [![Visite Meu Portfólio](https://img.shields.io/badge/Visite_meu_portfólio-white?style=for-the-badge)](https://gabriela-zerbone.netlify.app)
   </div>
-
+  
+  
 
 </div>
 
@@ -22,9 +25,9 @@
 ##
 
   <a href="https://github.com/gzerbone">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=gzerbone&show_icons=true&theme=omni&show_icons=true&hide_border=true"/>
+ <!-- <img height="145em" src="https://github-readme-stats.vercel.app/api?username=gzerbone&show_icons=true&theme=omni&show_icons=true&hide_border=true"/> -->
     
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzerbone&layout=compact&langs_count=7&theme=omni&show_icons=true&hide_border=true"/>
+  <!-- <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzerbone&layout=compact&langs_count=7&theme=omni&show_icons=true&hide_border=true"/> -->
 
 
 ### **Languages** 
