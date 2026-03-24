@@ -106,6 +106,7 @@
 </div></br>
 
 <div style="display: flex; flex-wrap: wrap;" align="center"> 
+  
   <a href="https://github.com/gzerbone/chatbot_ClinicaMedica">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=chatbot_ClinicaMedica&theme=omni&show_icons=true&hide_border=true">
   </a>  
