@@ -11,41 +11,44 @@
   [![Gmail](https://img.shields.io/badge/Gmail-a8105f?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gzerbonemb@gmail.com)](mailto:gzerbonemb@gmail.com)
   </br>
   [![Visite Meu Portfólio](https://img.shields.io/badge/Visite_meu_portfólio-white?style=for-the-badge)](https://gabriela-zerbone.netlify.app)
-  </div>
-  
-  
 
+  
+  
+  <a href="https://github.com/gzerbone">
+ <img height="145em" src="https://github-readme-stats.vercel.app/api?username=gzerbone&show_icons=true&theme=omni&show_icons=true&hide_border=true"/>
+    
+  <img height="145em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzerbone&layout=compact&langs_count=7&theme=omni&show_icons=true&hide_border=true"/>
+</a>
+  </div>
 </div>
 
-  <!-- Octocat no canto direito -->
+
+##
+<!-- Octocat no canto direito -->
   <img align="right" src="https://github.com/dhilipsiva/octodex/blob/master/png/poptocat_v2.png?raw=true" 
        alt="Octocat" 
        width="470" 
        style="padding-left: 0; position: absolute; top: 50%; right: 0; transform: translateY(-50%);">
-##
-
-  <a href="https://github.com/gzerbone">
- <!-- <img height="145em" src="https://github-readme-stats.vercel.app/api?username=gzerbone&show_icons=true&theme=omni&show_icons=true&hide_border=true"/> -->
-    
-  <!-- <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzerbone&layout=compact&langs_count=7&theme=omni&show_icons=true&hide_border=true"/> -->
-
-
 ### **Languages** 
 ![Python](https://img.shields.io/badge/python-a8105f?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-a8105f?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/Csharp-a8105f?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-a8105f?style=for-the-badge&logo=javascript&logoColor=white)
-
+  
 ### **Frontend & Backend**  
 ![Vue.js](https://img.shields.io/badge/vuejs-a8105f.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-a8105f.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-a8105f?style=for-the-badge&logo=node.js&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-a8105f.svg?style=for-the-badge&logo=ejs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/asp.net-a8105f?style=for-the-badge&logo=asp.net&logoColor=white)
+<!-- ![EJS](https://img.shields.io/badge/EJS-a8105f.svg?style=for-the-badge&logo=ejs&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/HTML5-a8105f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-a8105f?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-a8105f?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-a8105f?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-a8105f?style=for-the-badge&logo=express&logoColor=white)
+<!-- ![Express.js](https://img.shields.io/badge/express.js-a8105f?style=for-the-badge&logo=express&logoColor=white) -->
 ![Django](https://img.shields.io/badge/django-a8105f.svg?style=for-the-badge&logo=django&logoColor=white)
+
+
 
 ### **Databases**  
 
@@ -69,14 +72,16 @@
 ![PowerBI](https://img.shields.io/badge/power_bi-a8105f?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-a8105f?style=for-the-badge&logo=kaggle&logoColor=white)
 
+<!--
 ### **Automation**
 ![cypress](https://img.shields.io/badge/-cypress-a8105f?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-a8105f?style=for-the-badge&logo=selenium&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-a8105f?style=for-the-badge&logo=n8n&logoColor=white)
 ![Webhook](https://img.shields.io/badge/-webhook-a8105f?style=for-the-badge&logo=Webhook&logoColor=white)
-
+-->
 ### **Design & Prototyping**
 ![Figma](https://img.shields.io/badge/Figma-a8105f?style=for-the-badge&logo=figma&logoColor=white)
+![Desing System](https://img.shields.io/badge/Design_System-a8105f?style=for-the-badge&logo=design&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-a8105f?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-a8105f?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-a8105f?style=for-the-badge&logo=framer&logoColor=white)
@@ -101,6 +106,9 @@
 </div></br>
 
 <div style="display: flex; flex-wrap: wrap;" align="center"> 
+  <a href="https://github.com/gzerbone/chatbot_ClinicaMedica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=chatbot_ClinicaMedica&theme=omni&show_icons=true&hide_border=true">
+  </a>  
   <a href="https://github.com/gzerbone/predicao-banking-churn">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=predicao-banking-churn&theme=omni&show_icons=true&hide_border=true">
   </a>  
