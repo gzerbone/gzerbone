@@ -109,7 +109,9 @@
 
 <div style="display: flex; flex-wrap: wrap;" align="center"> 
   
-
+  <a href="https://github.com/gzerbone/chatbot_ClinicaMedica/tree/geminiService_modularizado">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=chatbot_ClinicaMedica&theme=omni&show_icons=true&hide_border=true">
+  </a>  
   <a href="https://github.com/gzerbone/predicao-banking-churn">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=predicao-banking-churn&theme=omni&show_icons=true&hide_border=true">
   </a>  
