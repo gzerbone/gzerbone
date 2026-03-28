@@ -12,14 +12,17 @@
   </br>
   [![Visite Meu Portfólio](https://img.shields.io/badge/Visite_meu_portfólio-white?style=for-the-badge)](https://gabriela-zerbone.netlify.app)
 
+  <a href="https://github.com/gzerbone">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=gzerbone&theme=omni&hide_border=true&border_radius=50&mode=weekly&card_height=170&fire=FF0EAA&ring=A8105F&currStreakLabel=FF79C6&sideLabels=FF79C6&currStreakNum=FF0EAA&stroke=FF0EAA" alt="GitHub Streak" /></a>
+  </a>
   <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=gzerbone&theme=omni&hide_border=true&border_radius=50&mode=weekly&fire=FF0EAA&ring=A8105F&currStreakLabel=FF79C6&sideLabels=FF79C6&currStreakNum=FF0EAA&stroke=FF0EAA)](https://git.io/streak-stats) -->
   </div>
-  <a href="https://github.com/gzerbone">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gzerbone&theme=omni&hide_border=true&border_radius=50&mode=weekly&card_height=170&fire=FF0EAA&ring=A8105F&currStreakLabel=FF79C6&sideLabels=FF79C6&currStreakNum=FF0EAA&stroke=FF0EAA" alt="GitHub Streak" /></a>
-    <img height= "170px" src="https://github-readme-stats.vercel.app/api?username=gzerbone&show_icons=true&theme=omni&hide_border=true&border_radius=50&show_icons=true"/>
-   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzerbone&layout=compact&langs_count=7&theme=omni&show_icons=true&hide_border=true"/> -->
-  </a>
 </div>
+    <!-- <img height= "170px" src="https://github-readme-stats.vercel.app/api?username=gzerbone&show_icons=true&theme=omni&hide_border=true&border_radius=50&show_icons=true"/> -->
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzerbone&layout=compact&langs_count=7&theme=omni&show_icons=true&hide_border=true"/> -->
+  
+
 
 
 ##
@@ -106,9 +109,7 @@
 
 <div style="display: flex; flex-wrap: wrap;" align="center"> 
   
-  <a href="https://github.com/gzerbone/chatbot_ClinicaMedica">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=chatbot_ClinicaMedica&theme=omni&show_icons=true&hide_border=true">
-  </a>  
+
   <a href="https://github.com/gzerbone/predicao-banking-churn">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=predicao-banking-churn&theme=omni&show_icons=true&hide_border=true">
   </a>  
@@ -127,7 +128,8 @@
   
    <a href="https://github.com/gzerbone/Image_To_Ascii_art">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gzerbone&repo=Image_To_Ascii_art&theme=omni&show_icons=true&hide_border=true">
-  </a>  </div>
+  </a>  
+  </div>
 
 
  </div>
